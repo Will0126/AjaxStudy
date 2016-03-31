@@ -101,23 +101,9 @@
 
             document.querySelector("#contant").appendChild(tr);
 
-
         }
 
-
-
-
-
-
-
     })();
-
-
-
-
-
-
-
 
 </script>
 </body>
